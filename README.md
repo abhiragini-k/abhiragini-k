@@ -9,14 +9,14 @@ Computer Science student at BMSIT&M with hands-on experience in backend engineer
 -I'm currently focused on backend engineering and AI systems, while exploring system design, cloud infrastructure, and scalable software development.
 
 ## Tech stack:
-**Languages** — Python, Java, C, C++, JavaScript
-**Backend** — FastAPI, Node.js, Express.js
-**Frontend** — React, React Native, Flutter, Tailwind CSS
-**AI / ML** — TensorFlow, Keras, XGBoost, YOLO, MediaPipe, LLM APIs
-**Data & Databases** — PostgreSQL, MongoDB, Firebase, Pandas, NumPy
-**AI Systems** — Knowledge Graphs, RAG, LLM Integration, Explainable AI, AI Pipelines
-**DevOps & Tools** — Docker, Git, GitHub, Postman, Linux
-**Cloud & Deployment** — AWS, Firebase, Vercel, Railway, Render
+**Languages** — Python, Java, C, C++, JavaScript<br>
+**Backend** — FastAPI, Node.js, Express.js<br>
+**Frontend** — React, React Native, Flutter, Tailwind CSS<br>
+**AI / ML** — TensorFlow, Keras, XGBoost, YOLO, MediaPipe, LLM APIs<br>
+**Data & Databases** — PostgreSQL, MongoDB, Firebase, Pandas, NumPy<br>
+**AI Systems** — Knowledge Graphs, RAG, LLM Integration, AI Pipelines<br>
+**DevOps & Tools** — Docker, Git, GitHub, Postman, Linux<br>
+**Cloud & Deployment** — AWS, Firebase, Vercel, Railway, Render<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiragini-k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhiraginik@gmail.com) 
