@@ -1,6 +1,4 @@
-# Abhiragini K
-Hiee there!!! <br>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=E88FA9&width=1000&lines=Hiee%2C+I'm+Abhiragini+K;CSE+Student+%40+BMSIT%26M;Backend+Engineering+%7C+AI+Systems)](https://git.io/typing-svg)
 ## About Me
 Computer Science student at BMSIT&M with hands-on experience in backend engineering, AI systems, and full-stack development.<br><br>
 
